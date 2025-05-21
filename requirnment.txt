@@ -1,0 +1,6 @@
+## 🛠️ Technologies Used
+pip install Pandas 
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
